@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ibrahimahmed12333@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1NfoTPDu9z8WG4OklZVlrytdih8AQqefv/view?usp=drive_link](https://drive.google.com/file/d/1NfoTPDu9z8WG4OklZVlrytdih8AQqefv/view?usp=drive_link)](https://drive.google.com/file/d/1LEIt059i8UIXZmQ2YKp8TLm2GiVK-DlX/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1LEIt059i8UIXZmQ2YKp8TLm2GiVK-DlX/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
