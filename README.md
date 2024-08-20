@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimahmed413&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahmed413" /> </p>
 
-- 🔭 I’m currently working as an [intern](at Codemetics)
+- 🔭 I have done an internship in Flutter Mobile App development at Codematice Inc.
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning Full Stack Development
 
 - 💬 Ask me about **React-native, SQL, Java, HTML, CSS, Graphic Designing**
 
