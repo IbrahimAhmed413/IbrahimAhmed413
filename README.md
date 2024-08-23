@@ -1,13 +1,13 @@
 ![logo](html-computer-programming-coding-language-website-developing-technology-background-mixed-media-banner-2J4955T.jpg)
 <h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
-<h3 align="center">A passionate app developer</h3>
+<h3 align="center">A Full Stack development intern </h3>
 <img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimahmed413&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahmed413" /> </p>
 
-- 🔭 I have done an internship in Flutter Mobile App development at Codematice Inc.
-
 - 🌱 I’m currently learning Full Stack Development
+  
+- 🔭 I have interned in Flutter Mobile App development at Codematice Inc.
 
 - 💬 Ask me about **React-native, SQL, Java, HTML, CSS, Graphic Designing**
 
