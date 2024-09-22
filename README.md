@@ -9,7 +9,7 @@
   
 - 🔭 I have interned in Flutter Mobile App development at Codematice Inc.
 
-- 💬 Ask me about **React-native, SQL, Java, HTML, CSS, Graphic Designing**
+- 💬 Ask me about **React-native, SQL, Java, HTML, CSS, Graphic Designing, JavaScript, React.Js**
 
 - 📫 How to reach me **ibrahimahmed12333@gmail.com**
 
