@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Full Stack Development
   
-- 🔭 I am skilled at HTML, CSS, JavaScript, BootStrap, MaterialUI, ReactJs, NodeJS, ExpressJs, Fetch API, MongoDB.
+- 🔭 I am skilled at HTML, CSS, JavaScript, BootStrap, MaterialUI, ReactJs, NodeJS, ExpressJs, Fetch API, and MongoDB.
 
 - 📫 How to reach me **ibrahimahmed12333@gmail.com**
 
